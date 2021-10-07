@@ -1,0 +1,84 @@
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csprojAssemblyReference.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.AnaForm.resources
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.Properties.Resources.resources
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.GenerateResource.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CoreCompileInputs.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe.config
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe.config
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csprojAssemblyReference.cache
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.AnaForm.resources
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.Properties.Resources.resources
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.GenerateResource.cache
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\Mücahit ÇELİK\Desktop\Kapsamalar-Ve-Sezgisel-Rota-master\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe.config
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csprojAssemblyReference.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.AnaForm.resources
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.Properties.Resources.resources
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.GenerateResource.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CoreCompileInputs.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.dll
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.xml
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\sad\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CopyComplete
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe.config
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.dll
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.xml
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csprojAssemblyReference.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.AnaForm.resources
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.Properties.Resources.resources
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.GenerateResource.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CoreCompileInputs.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CopyComplete
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\müco\Ayrık matematik ödevi son hali\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csprojAssemblyReference.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.AnaForm.resources
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.Properties.Resources.resources
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.GenerateResource.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CoreCompileInputs.cache
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe.config
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.dll
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.xml
+C:\Users\AHMET GÖZÜKÜÇÜK\Downloads\DERS\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CopyComplete
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe.config
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.dll
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.xml
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.AnaForm.resources
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.Properties.Resources.resources
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CopyComplete
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\pc\Desktop\Ayrık matematik ödevi son hali-kopya\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe.config
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\bin\Debug\KapsamalarVeSezgiselRota.pdb
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.dll
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\bin\Debug\System.ValueTuple.xml
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.AnaForm.resources
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.Properties.Resources.resources
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.csproj.CopyComplete
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.exe
+C:\Users\pc\Desktop\Ayrık matematik ödev\KapsamalarVeSezgiselRota\obj\Debug\KapsamalarVeSezgiselRota.pdb

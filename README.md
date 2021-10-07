@@ -1,0 +1,2 @@
+# KapsamalarVeSezgiselRota
+ Ayrık Matematik C#
